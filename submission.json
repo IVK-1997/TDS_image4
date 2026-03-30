@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal, impossible architectural structure made of interconnected staircases forming a continuous loop. Each individual staircase segment clearly ascends upward with consistent perspective and lighting, giving a strong local sense of upward movement. However, the overall structure subtly curves and connects in such a way that the full loop descends into a lower level, creating a global downward progression. No text, no symbols, no numbers. Style: highly detailed, realistic lighting, slightly eerie atmosphere, inspired by M.C. Escher but rendered in a modern cinematic style. Clean geometry, soft shadows, muted color palette. The contradiction should feel natural and not exaggerated, producing a quiet but unsettling realization.",
+  "model": "DALL-E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each staircase locally ascends, but their global arrangement forms a descending loop, revealing opposite outcomes at different aggregation levels."
+}
