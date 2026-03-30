@@ -2,5 +2,5 @@
   "prompt": "An abstract network of human-like figures connected by glowing lines, forming a complex web. Each figure is surrounded by neighboring figures that visibly have more connections than itself, yet this condition holds for every figure in the network simultaneously. No text, no numbers, no symbols. Style: minimalistic but detailed, soft glowing connections, dark background, subtle depth of field, slightly surreal atmosphere. The contradiction should emerge naturally from the structure, creating a quiet sense of impossibility.",
   "model": "DALL-E 3",
   "paradox": "Friendship Paradox",
-  "visual_logic": "Every node is connected to neighbors with more links, making everyone appear less connected than their peers simultaneously."
+  "visual_logic": "Every node is connected to neighbors with more connections, making everyone appear less connected than others simultaneously."
 }
